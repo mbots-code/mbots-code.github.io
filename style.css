@@ -16,6 +16,14 @@ th {
   border-right: 2px solid #6b46ff;
   padding: 8px 12px;
 }
+s {
+  color: red;
+  text-decoration: line-through;
+  font-weight: bold;
+}
+.strike {
+  color: #858585;
+}
 .stackedit__html {
   max-width: max-content;
 }
